@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Personal web site',
-    siteTitleAlt: 'Personal web site - Workshop Gatsby',
-    siteHeadline: 'Personal web site - Workshop Gatsby',
-    siteUrl: 'https://your-url.com',
+    siteTitle: 'Juan David´s Portfolio',
+    siteTitleAlt: 'Juan David´s Portfolio',
+    siteHeadline: 'Juan David´s Portfolio',
+    siteUrl: 'https://juandape.dev',
     siteDescription:
       'Playful and Colorful One-Page portfolio featuring Parallax effects and animations',
     siteLanguage: 'en',

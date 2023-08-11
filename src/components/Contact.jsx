@@ -8,6 +8,7 @@ import Content from '../elements/content';
 import Icon from './Svg';
 import { UpDown, UpDownWide, waveAnimation } from '../styles/animations';
 import Footer from './Footer';
+import ContactMDX from '../sections/contact.mdx';
 
 // import Contact MDX file;
 
@@ -54,7 +55,7 @@ const Contact = ({ offset }) => (
       </div>
     </Divider>
     <Content speed={0.4} offset={offset}>
-      <Inner>{/* Contact Component MDX  */}</Inner>
+      <Inner><ContactMDX /></Inner>
       <Footer />
     </Content>
     <Divider speed={0.1} offset={offset}>

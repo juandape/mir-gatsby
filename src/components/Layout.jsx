@@ -2,6 +2,7 @@ import React from 'react';
 import { Global } from '@emotion/react';
 import { css } from 'theme-ui';
 import { Themed } from '@theme-ui/mdx';
+import SEO from './Seo';
 
 // import Seo
 
@@ -35,7 +36,7 @@ const Layout = ({ children, className }) => (
         },
       })}
     />
-    {/* Seo Component */}
+    < SEO />
     <main className={className}>{children}</main>
   </Themed.root>
 );
