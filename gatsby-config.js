@@ -8,7 +8,7 @@ module.exports = {
       'Playful and Colorful One-Page portfolio featuring Parallax effects and animations',
     siteLanguage: 'en',
     siteImage: '/banner.jpg',
-    author: 'MakeItReal Students',
+    author: 'Juan David Peña',
     basePath: '/',
   },
   plugins: [
