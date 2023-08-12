@@ -5,7 +5,7 @@ module.exports = {
     siteHeadline: 'Juan David´s Portfolio',
     siteUrl: 'https://juandape.dev',
     siteDescription:
-      'Playful and Colorful One-Page portfolio featuring Parallax effects and animations',
+      'Juan David´s Portfolio, a place where I share my projects',
     siteLanguage: 'en',
     siteImage: '/banner.jpg',
     author: 'Juan David Peña',
