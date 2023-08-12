@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Inner from '../elements/inner';
-import Content from '../elements/content';
-import ShapesAbout from './shapes/about';
+import Inner from '../elements/Inner';
+import Content from '../elements/Content';
+import ShapesAbout from './shapes/About';
 import AboutMDX from '../sections/about.mdx';
 
 // import About MDX file;

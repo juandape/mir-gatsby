@@ -1,9 +1,9 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui';
 
-import Inner from '../elements/inner';
-import Content from '../elements/content';
-import ShapesHero from './shapes/hero';
+import Inner from '../elements/Inner';
+import Content from '../elements/Content';
+import ShapesHero from './shapes/Hero';
 import Intro from '../sections/intro.mdx';
 // import Intro componente MDX
 

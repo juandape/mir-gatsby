@@ -3,8 +3,8 @@ import { jsx } from 'theme-ui';
 import styled from '@emotion/styled';
 
 import Divider from '../elements/Divider';
-import Inner from '../elements/inner';
-import Content from '../elements/content';
+import Inner from '../elements/Inner';
+import Content from '../elements/Content';
 import Icon from './Svg';
 import { UpDown, UpDownWide, waveAnimation } from '../styles/animations';
 import Footer from './Footer';
