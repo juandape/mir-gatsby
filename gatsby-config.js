@@ -7,7 +7,7 @@ module.exports = {
     siteDescription:
       'Juan David´s Portfolio, a place where I share my projects',
     siteLanguage: 'en',
-    siteImage: '/banner.jpg',
+    siteImage: 'https://res.cloudinary.com/dahm4ko9b/image/upload/v1690509970/upload-folder/ba1ce73258ee5d67e3cf4829b6478f41.jpg',
     author: 'Juan David Peña',
     basePath: '/',
   },
@@ -41,7 +41,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
+        icon: 'https://res.cloudinary.com/dahm4ko9b/image/upload/v1690509970/upload-folder/ba1ce73258ee5d67e3cf4829b6478f41.jpg', // This path is relative to the root of the site.
       },
     },
   ],
