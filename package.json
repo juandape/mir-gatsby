@@ -3,7 +3,7 @@
   "private": false,
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
   "version": "1.0.0",
-  "author": "MakeItReal Students",
+  "author": "Juan David Peña",
   "dependencies": {
     "@emotion/react": "11.5.0",
     "@emotion/styled": "11.10.5",
