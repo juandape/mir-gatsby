@@ -17,6 +17,8 @@ const Divider = ({
       position: `absolute`,
       width: `full`,
       height: `full`,
+      marginTop: `auto`,
+      marginBottom: `auto`,
       background: bg,
       backgroundColor: bg,
       '#contact-wave': {
