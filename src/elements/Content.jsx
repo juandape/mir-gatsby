@@ -8,11 +8,11 @@ const Content = ({ speed, offset, children, className, factor }) => (
     css={css({
       padding: [3, 4, 4, 5],
       display: `flex`,
-      flexDirection: `column`,
+      // flexDirection: `column`,
       alignItems: `center`,
       justifyContent: `center`,
       zIndex: 50,
-      marginBottom: `200px`,
+      // marginBottom: `200px`,
     })}
     speed={speed}
     offset={offset}
