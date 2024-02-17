@@ -12,7 +12,7 @@ const Content = ({ speed, offset, children, className, factor }) => (
       alignItems: `center`,
       justifyContent: `center`,
       zIndex: 50,
-      marginBottom: `100px`,
+      marginBottom: `200px`,
     })}
     speed={speed}
     offset={offset}
